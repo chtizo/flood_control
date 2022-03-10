@@ -1,0 +1,20 @@
+<RCC>
+  <qresource prefix="prefix">
+    <file>icons/188-microphone-recording-outline.png</file>
+    <file>icons/21-avatar-outline.png</file>
+    <file>icons/64-wifi-outline.png</file>
+    <file>icons/75-752371_left-white-arrow-icon-hd-png-download.png</file>
+    <file>icons/268-avatar-man-outline.png</file>
+    <file>icons/403-museum-authority-outline.png</file>
+    <file>icons/403-museum-authority-outline.svg</file>
+    <file>icons/500-fingerprint-security-outline.png</file>
+    <file>icons/726-wireless-connection-outline.png</file>
+    <file>icons/1121-iota-internet-of-things-outline.png</file>
+    <file>icons/1249-heart-beat-outline.png</file>
+    <file>icons/1305-usb-cable-outline.png</file>
+    <file>icons/591276.png</file>
+    <file>icons/App_avatar.png</file>
+    <file>icons/Avatar gif.gif</file>
+    <file>icons/wifi_inapp.png</file>
+  </qresource>
+</RCC>

@@ -1,0 +1,1 @@
+C:\Users\PAVILION\AppData\Local\Programs\Python\Python37\Scripts\pyrcc5 -o C:\Users\PAVILION\AppData\Local\Programs\Python\Python37\Lib\site-packages\QtDesigner\Projects\Charishma\icons_rc.py C:\Users\PAVILION\AppData\Local\Programs\Python\Python37\Lib\site-packages\QtDesigner\Projects\Charishma\icons.qrc
